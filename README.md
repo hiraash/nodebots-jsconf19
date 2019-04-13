@@ -1,4 +1,4 @@
-# Nodebots JS Conf 2017
+# Nodebots JS Conf 2019
 
 ## Prerequisites
 

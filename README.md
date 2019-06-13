@@ -3,7 +3,7 @@
 ## Prerequisites
 
 -   Install [Arduino IDE](https://www.arduino.cc/en/Main/Software)
--   Install latest nodejs
+-   Install nodejs
 
 ## Installing Other Tools
 

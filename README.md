@@ -27,10 +27,11 @@ We need to flash the arduino with firmata.
 
 ## Simple Bot
 
-Download simplebot
+Download simplebot (done by setup.sh)
 -   ``` git clone https://github.com/nodebotsau/simplebot ```
 
 Wiring - [link](https://github.com/nodebotsau/simplebot/blob/master/examples/wiring/basic_wiring_bb.png)
+Code to run - [link](https://github.com/nodebotsau/simplebot/blob/master/examples/SimpleBotShield/simplebot.js)
 
 ## Neopixel
 - Flash arduino with node-pixel

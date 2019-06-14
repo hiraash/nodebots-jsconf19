@@ -36,7 +36,7 @@ Code to run - [link](https://github.com/nodebotsau/simplebot/blob/master/example
 ## Neopixel
 - Flash arduino with node-pixel
     -   ``` npm install -g nodebots-interchange ``` 
-    -   ``` interchange install git+https://github.com/ajfisher/node-pixel -a uno --firmata```
+    -   ``` interchange install git+https://github.com/ajfisher/node-pixel -a nano --firmata```
 
 Example - [links](https://github.com/ajfisher/node-pixel)
 

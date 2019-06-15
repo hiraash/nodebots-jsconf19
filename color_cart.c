@@ -730,6 +730,9 @@ void setupLed() {
 
 void loopLed()
 {
+    val = analogRead(9);  // read the input pin
+    Serial.println(val); 
+
     ChangePalettePeriodically();
     
     static uint8_t startIndex = 0;
